@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Genaro Hernandez Pñeiro</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
+<p Passionate about technology, specifically in the field of web programming as a front-end developer. I studied Mechatronics Engineering, but due to personal reasons, my professional life shifted towards the commercial sector, where I gained extensive experience in sales and personnel management over 13 years.>
+
+During this time, I never abandoned my passion for web development, although it was challenging to practice without a professional foundation. I have recently transitioned back to focusing on what I love, dedicating the past few months to relearning and enhancing my skills. I recognize the fundamental role of knowledge, but I also believe that practice makes perfect. Hence, I feel ready to take the next step and engage in real projects.
+
+I am keen to collaborate both as a freelancer and on temporary projects. I am enthusiastic about applying my skills and contributing to meaningful endeavors.
 
 - 🔭 I’m currently working on **freelance proyects**
 
