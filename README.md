@@ -17,7 +17,7 @@ I am keen to collaborate both as a freelancer and on temporary projects. I am en
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/genaro hernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="genaro hernandez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/genaro hernandez" target="blank"><img align="center" src="https://www.linkedin.com/in/genaro-hernandez-2ba993222/" alt="genaro hernandez" height="30" width="40" /></a>
 <a href="https://fb.com/genaro piñeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="genaro piñeiro" height="30" width="40" /></a>
 <a href="https://instagram.com/pineirohg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pineirohg" height="30" width="40" /></a>
 </p>
